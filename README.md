@@ -1,7 +1,7 @@
 # Financial-Trading-Strategy-Optimization
 SQL analysis of an A/B test comparing two financial trading strategies, focusing on returns, risk, and rollout recommendations.
 
-# A/B Test Analysis of Financial Trading Strategies (SQL Project)
+# A/B Test Analysis of Financial Trading Strategies 
 
 ## Overview
 
