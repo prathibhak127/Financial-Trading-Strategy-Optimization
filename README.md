@@ -149,7 +149,7 @@ This step helps distinguish real performance improvements from random noise.
 
 ---
 
-## Key Insights (Conceptual)
+## Key Insights 
 
 While exact numbers depend on the actual run, the analysis is designed to answer:
 
